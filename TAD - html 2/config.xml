@@ -16,7 +16,7 @@
     <author href="https://build.phonegap.com" email="andres.calderonbecerra@gmail.com">
         Andrés Calderón, Camila Riscanevo, Alejandra Pianda 
     </author>
-    <icon src="icons/icon.png" />
+    <icon src="icon.png" />
     <gap:splash src="splash.png" />
 
 </widget>
